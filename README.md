@@ -27,6 +27,7 @@ This is Part 1 of the Chat Application POE. This console-based application imple
 - **Build Tool:** [Maven or None - delete as appropriate]
 
 📚 References
+
 Phone Number Validation Regex
 The regular expression used for cell phone validation was adapted from:
 
