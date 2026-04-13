@@ -1,7 +1,7 @@
 # Chat App - Part 1: Registration and Login Feature
 
 ## 📋 Project Overview
-This is Part 1 of the Chat Application POE for The Independent Institute of Education (Pty) Ltd 2026. This console-based application implements a user registration and login system with specific validation rules.
+This is Part 1 of the Chat Application POE. This console-based application implements a user registration and login system with specific validation rules.
 
 ## 👤 Author Information
 - **Name:** Koketso Ratsoma
